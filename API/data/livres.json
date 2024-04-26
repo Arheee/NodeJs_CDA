@@ -1,0 +1,21 @@
+[
+    {
+      "id": 1,
+      "titre": "Le livre 1",
+      "auteur": "Antoine D.S",
+      "annee": 1945
+    },
+    {
+      "id": 2,
+      "titre": "Harry Potter",
+      "auteur": "J.K. Rowling",
+      "annee": 1997
+    },
+    {
+      "id": 3,
+      "titre": "1234",
+      "auteur": "G. Owli",
+      "annee": 1940
+    }
+  ]
+  
