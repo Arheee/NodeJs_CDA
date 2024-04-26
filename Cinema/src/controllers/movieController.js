@@ -30,7 +30,7 @@ exports.findMovieByName = async (req, res) => {
       const { title } = req.params;
       const movie = await Movie.findOne({ title });
       if (!movie) {
-        return res.status(404).json({ message: "Film not found" });
+        return res.status(404).json({ message: "Movie not found" });
       }
       res.json(movie);
     } catch (error) {
